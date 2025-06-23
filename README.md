@@ -1,4 +1,4 @@
-# James Britton Data Science CV
+# James Britton CV
 
 ## Personal Statement
 
