@@ -1,4 +1,4 @@
-# James Britton CV
+# My CV
 
 ## Personal Statement
 
