@@ -16,24 +16,24 @@ I am proficient with an array of tools including Microsoft Excel, Tableau and Vi
 -   Developed knowledge of Python and SQL to handle data-related queries quickly and efficiently.
 
 ### Customer Service & Operations Analyst (2022-2024)
--Worked as part of a collaborative team seeking to drive customer experience to new heights.
--Utilised several data modelling techniques including; linear regression, time-series forecasting and K clustering.
--Developed ETL pipelines from my reports using PowerQuery & PowerPivot to automate workstreams where possible and spend more time assessing customer service impacts.
--Used natural language processing (NLP) to assess customer feedback surveys for trends and actions.
--Identified coaching opportunities for myself and my team to continue developing in my role whilst building a stronger team.
--Identified gaps in service leading to process development and improving customer service.
+- Worked as part of a collaborative team seeking to drive customer experience to new heights.
+- Utilised several data modelling techniques including; linear regression, time-series forecasting and K clustering.
+- Developed ETL pipelines from my reports using PowerQuery & PowerPivot to automate workstreams where possible and spend more time assessing customer service impacts.
+- Used natural language processing (NLP) to assess customer feedback surveys for trends and actions.
+- Identified coaching opportunities for myself and my team to continue developing in my role whilst building a stronger team.
+- Identified gaps in service leading to process development and improving customer service.
 
 ### Customer Service/Sales Associate (2019-2022)
--Handled customer concerns & queries with professionalism, seeking the best possible outcome.
--Upskilled colleagues on lending processes following department closure.
--Stepped up for management to cover annual leave or development  opportunities for my team.
--Dealt with a wide range of customers from varying backgrounds, demonstrating a supportive and inclusive approach to every call.
+- Handled customer concerns & queries with professionalism, seeking the best possible outcome.
+- Upskilled colleagues on lending processes following department closure.
+- Stepped up for management to cover annual leave or development  opportunities for my team.
+- Dealt with a wide range of customers from varying backgrounds, demonstrating a supportive and inclusive approach to every call.
 
 ## Education
 ### Bsc Data Science (2024-)
--Further developing knowledge of coding languages such as SQL, Python and R.
--Learning how to create and publish my portfolio.
--Developing skills in statistical analysis and data modelling to improve my in-role capabilities at work.
+- Further developing knowledge of coding languages such as SQL, Python and R.
+- Learning how to create and publish my portfolio.
+- Developing skills in statistical analysis and data modelling to improve my in-role capabilities at work.
 
 ### Level 4 Data Analysis & IT Infrastructure (2022-2024)
 - Developed knowledge of analytical concepts, architecture and data quality standards.
@@ -41,18 +41,18 @@ I am proficient with an array of tools including Microsoft Excel, Tableau and Vi
 - Undertook end point assessment, achieving a Merit grade.
 
 ### A Levels (2016-2018)
--BTEC Level 3 Creative Media
--BTEC Level 3 ICT
--AS Maths
+- BTEC Level 3 Creative Media
+- BTEC Level 3 ICT
+- AS Maths
 
 ### GCSE (2014-2016)
--Computer Science
--English
--Maths
--Science
--Science Additional
--History
--Business Studies
+- Computer Science
+- English
+- Maths
+- Science
+- Science Additional
+- History
+- Business Studies
 
 ## Projects
 
