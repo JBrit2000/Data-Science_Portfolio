@@ -7,8 +7,8 @@ I am proficient with an array of tools including Microsoft Excel, Tableau and Vi
 
 ## Work Experience
 ### Risk & Controls Analyst (2024-)
--Worked as part of a regulatory team focused on monitoring data quality whilst adhering to key legislation such as BCBS239 and GDPR.
--Created data pipelines from extraction to visualisation using Excel, Python and Tableau with requirements of stakeholders gathered and executed throughout the process.
+--- Worked as part of a regulatory team focused on monitoring data quality whilst adhering to key legislation such as BCBS239 and GDPR.
+--- Created data pipelines from extraction to visualisation using Excel, Python and Tableau with requirements of stakeholders gathered and executed throughout the process.
 -Built strong stakeholder relationships in a 1st Line of Defence environment, developing knowledge in risk & control frameworks and regulatory requirements.
 -Monitored regulatory horizon scanning, pointing out key actions my department could take to stay informed and compliant with new legislation.
 -Met deadlines in a fast paced environment demonstrating capability, adaptability and postivie mental attitude.
