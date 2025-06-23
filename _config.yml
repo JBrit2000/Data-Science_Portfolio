@@ -1,23 +1,4 @@
 title: James Britton
+logo: /Assets/logo.jpg
 description: Data Scientist (In Training)
-logo: /assets/logo.jpg
-
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-include-cache
-
-author:
-  name: James Britton
-  avatar: /assets/logo.jpg
-  bio: Data Scientist (In Training)
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
+theme: jekyll-theme-minimal
