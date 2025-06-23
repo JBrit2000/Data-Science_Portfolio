@@ -7,13 +7,13 @@ I am proficient with an array of tools including Microsoft Excel, Tableau and Vi
 
 ## Work Experience
 ### Risk & Controls Analyst (2024-)
---- Worked as part of a regulatory team focused on monitoring data quality whilst adhering to key legislation such as BCBS239 and GDPR.
---- Created data pipelines from extraction to visualisation using Excel, Python and Tableau with requirements of stakeholders gathered and executed throughout the process.
--Built strong stakeholder relationships in a 1st Line of Defence environment, developing knowledge in risk & control frameworks and regulatory requirements.
--Monitored regulatory horizon scanning, pointing out key actions my department could take to stay informed and compliant with new legislation.
--Met deadlines in a fast paced environment demonstrating capability, adaptability and postivie mental attitude.
--Trained new members of the team, ensuring processes were completed to high standards with clear expectations set.
--Developed knowledge of Python and SQL to handle data-related queries quickly and efficiently.
+1. Worked as part of a regulatory team focused on monitoring data quality whilst adhering to key legislation such as BCBS239 and GDPR.
+2.  Created data pipelines from extraction to visualisation using Excel, Python and Tableau with requirements of stakeholders gathered and executed throughout the process.
+3.  Built strong stakeholder relationships in a 1st Line of Defence environment, developing knowledge in risk & control frameworks and regulatory requirements.
+4.  Monitored regulatory horizon scanning, pointing out key actions my department could take to stay informed and compliant with new legislation.
+5.  Met deadlines in a fast paced environment demonstrating capability, adaptability and postivie mental attitude.
+6.  Trained new members of the team, ensuring processes were completed to high standards with clear expectations set.
+7.  Developed knowledge of Python and SQL to handle data-related queries quickly and efficiently.
 
 ### Customer Service & Operations Analyst (2022-2024)
 -Worked as part of a collaborative team seeking to drive customer experience to new heights.
