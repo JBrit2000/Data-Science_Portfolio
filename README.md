@@ -1,8 +1,9 @@
-# My Data Science Portfolio Showcasing All My Projects
+# James Britton Data Science CV
 
-## this is 2
-### this is 3
+## Work Experience
+## Education
+## Projects
 
-*italics*
-''bold''
+
+
 
