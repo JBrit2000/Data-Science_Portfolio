@@ -1,6 +1,6 @@
 # James Britton Data Science CV
 
-##Personal Statement
+## Personal Statement
 
 An adaptable, dedicated professional with significant experience in multiple areas of the Financial Services industry; including, Customer Service, Sales, Stakeholder Management, Customer Experience, Risk Data Aggregation and Analysis, and quality assurance.
 I am proficient with an array of tools including Microsoft Excel, Tableau and Visio. I can work well under my own initiative and within a team, demonstrating high levels of motivation and flexibility required to meet tight deadlines.
