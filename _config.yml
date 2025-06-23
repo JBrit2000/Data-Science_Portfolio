@@ -1,10 +1,4 @@
 title: James Britton
 description: Data Scientist (In Training)
 logo: /Assets/logo.jpg
-
-# Replace with your chosen theme
-remote_theme: mmistakes/minimal-mistakes
-
-minimal_mistakes_skin: dark
-plugins:
-  - jekyll-include-cache
+theme: jekyll-theme-hacker
